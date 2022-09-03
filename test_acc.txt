@@ -1,0 +1,134 @@
+Test Results
+-------------------------------------------
+
+pre-processing number = 5
+
+original 200
+Test NDCG@100=0.41793 (0.00218)
+Test Recall@20=0.38890 (0.00272)
+Test Recall@50=0.52561 (0.00292)
+
+gauss_deneme 100 
+Test NDCG@100=0.40029 (0.00222)
+Test Recall@20=0.36889 (0.00271)
+Test Recall@50=0.48983 (0.00292)
+
+bernoulli 200
+Test NDCG@100=0.37957 (0.00228)
+Test Recall@20=0.34734 (0.00271)
+Test Recall@50=0.46067 (0.00295)
+
+logistic 200
+Test NDCG@100=0.42131 (0.00221)
+Test Recall@20=0.39095 (0.00274)
+Test Recall@50=0.52040 (0.00291)
+
+poisson 200
+Test NDCG@100=0.12795 (0.00127)
+Test Recall@20=0.12519 (0.00168)
+Test Recall@50=0.17438 (0.00206)
+
+expo 200
+Test NDCG@100=0.00529 (0.00019)
+Test Recall@20=0.00271 (0.00024)
+Test Recall@50=0.00269 (0.00024)
+-------------------------------------------
+
+pre-processing number = 0 
+
+original 200 epochs 
+Test NDCG@100=0.41998 (0.00213)
+Test Recall@20=0.39183 (0.00270)
+Test Recall@50=0.52916 (0.00286)
+
+logistic 200 epochs
+Test NDCG@100=0.42222 (0.00215)
+Test Recall@20=0.39237 (0.00273)
+Test Recall@50=0.52604 (0.00286)
+
+gauss_deneme 100 epochs
+Test NDCG@100=0.40193 (0.00218)
+Test Recall@20=0.36752 (0.00269)
+Test Recall@50=0.49219 (0.00289)
+
+bernoulli 200 epochs
+Test NDCG@100=0.37899 (0.00223)
+Test Recall@20=0.34858 (0.00268)
+Test Recall@50=0.46288 (0.00293)
+
+----------------------------------------------
+
+pre-processing number = 40 
+
+original 200 epochs
+Test NDCG@100=0.18472 (0.00243)
+Test Recall@20=0.16934 (0.00258)
+Test Recall@50=0.23626 (0.00321)
+
+
+logistic 200 epochs
+Test NDCG@100=0.19195 (0.00251)
+Test Recall@20=0.17505 (0.00262)
+Test Recall@50=0.23908 (0.00323)
+
+
+gauss_deneme 100 epochs
+Test NDCG@100=0.18809 (0.00249)
+Test Recall@20=0.17218 (0.00259)
+Test Recall@50=0.22862 (0.00313)
+
+
+bernoulli 200 epochs
+Test NDCG@100=0.17963 (0.00240)
+Test Recall@20=0.16704 (0.00256)
+Test Recall@50=0.22121 (0.00307)
+------------------------------------
+
+pre-processing number = 50 
+
+original 200 epochs 
+Test NDCG@100=0.14962 (0.00225)
+Test Recall@20=0.13714 (0.00238)
+Test Recall@50=0.19325 (0.00300)
+
+logistic 200 epochs
+Test NDCG@100=0.15617 (0.00235)
+Test Recall@20=0.14248 (0.00243)
+Test Recall@50=0.19392 (0.00300)
+
+
+gauss_deneme 100 epochs
+Test NDCG@100=0.15526 (0.00235)
+Test Recall@20=0.14004 (0.00239)
+Test Recall@50=0.18942 (0.00294)
+
+
+bernoulli 200 epochs
+Test NDCG@100=0.15088 (0.00229)
+Test Recall@20=0.13832 (0.00238)
+Test Recall@50=0.18416 (0.00289)
+------------------------
+
+pre-processing number = 20 
+
+original 200 epochs 
+Test NDCG@100=0.30181 (0.00258)
+Test Recall@20=0.27970 (0.00289)
+Test Recall@50=0.38041 (0.00338)
+
+logistic 200 epochs
+Test NDCG@100=0.30358 (0.00261)
+Test Recall@20=0.28095 (0.00289)
+Test Recall@50=0.37902 (0.00338)
+
+
+gauss_deneme 100 epochs
+Test NDCG@100=0.29230 (0.00258)
+Test Recall@20=0.26803 (0.00283)
+Test Recall@50=0.35759 (0.00330)
+
+
+bernoulli 200 epochs
+Test NDCG@100=0.27326 (0.00247)
+Test Recall@20=0.25023 (0.00276)
+Test Recall@50=0.33869 (0.00322)
